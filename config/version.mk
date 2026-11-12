@@ -38,7 +38,6 @@ PRODUCT_PRODUCT_PROPERTIES += \
   ro.infinity.android.version=$(ANDROID_VERSION) \
   ro.infinity.build.version=$(INFINITY_VERSION) \
   ro.infinity.build.status=$(INFINITY_BUILD_TYPE) \
-  ro.modversion=$(INFINITY_VERSION) \
   ro.infinity.build.date=$(INFINITY_BUILD_DATE) \
   ro.infinity.buildtype=$(INFINITY_BUILD_TYPE) \
   ro.infinity.fingerprint=$(INFINITY_FINGERPRINT) \
